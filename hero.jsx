@@ -13,7 +13,7 @@ const Hero = () => {
         </button>
       </div>
       <div className="flex justify-center items-center bg-gray-100 rounded-xl">
-        <img src="/van.png" alt="Convex Van" className="h-40" />
+        <img src="/van.png" alt="" className="h-40" />
       </div>
     </section>
   );
